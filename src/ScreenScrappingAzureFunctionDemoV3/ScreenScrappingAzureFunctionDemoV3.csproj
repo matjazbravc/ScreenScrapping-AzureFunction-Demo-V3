@@ -4,9 +4,9 @@
     <AzureFunctionsVersion>v3</AzureFunctionsVersion>
   </PropertyGroup>
   <ItemGroup>
-    <PackageReference Include="Autofac.Extensions.DependencyInjection.AzureFunctions" Version="6.0.0.44" />
-    <PackageReference Include="HtmlAgilityPack" Version="1.11.23" />
-    <PackageReference Include="Microsoft.NET.Sdk.Functions" Version="3.0.6" />
+    <PackageReference Include="Autofac.Extensions.DependencyInjection.AzureFunctions" Version="6.0.0.51" />
+    <PackageReference Include="HtmlAgilityPack" Version="1.11.24" />
+    <PackageReference Include="Microsoft.NET.Sdk.Functions" Version="3.0.9" />
   </ItemGroup>
   <ItemGroup>
     <None Update="appsettings.json">
